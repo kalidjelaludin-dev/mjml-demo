@@ -1,0 +1,148 @@
+<mjml
+  ><mj-head
+    ><mj-attributes
+      ><mj-all
+        font-family="Inter, Helvetica, Arial, sans-serif"
+        color="#222222"
+      ></mj-all>
+      <mj-text font-size="16px" line-height="1.6"></mj-text>
+      <mj-section padding="0px"></mj-section>
+      <mj-button
+        background-color="#0A84FF"
+        color="#ffffff"
+        font-size="16px"
+        border-radius="8px"
+        padding="14px 24px"
+      ></mj-button>
+      <mj-image padding="0px"></mj-image
+    ></mj-attributes>
+    <mj-font
+      name="Inter"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
+    ></mj-font>
+    <mj-style inline="inline"
+      >.shadow-card { box-shadow: 0 8px 24px rgba(0,0,0,0.08); border-radius:
+      12px; } .muted { color: #555555; } .eyebrow { text-transform: uppercase;
+      letter-spacing: 0.12em; font-size: 12px; color: #0A84FF; } .divider {
+      border-top: 1px solid #eeeeee; }</mj-style
+    ></mj-head
+  >
+  <mj-body background-color="#F7F9FC"
+    ><mj-section background-color="#ffffff" padding="24px"
+      ><mj-column width="20%"
+        ><mj-image
+          width="40px"
+          src="https://dummyimage.com/80x80/0A84FF/ffffff.png&text=K"
+          alt="Brand logo"
+        ></mj-image
+      ></mj-column>
+      <mj-column width="80%" vertical-align="middle"
+        ><mj-text align="right" font-size="14px" class="muted"
+          >View in browser</mj-text
+        ></mj-column
+      ></mj-section
+    >
+    <mj-section background-color="#ffffff" padding="48px 24px"
+      ><mj-column
+        ><mj-text css-class="eyebrow">Launch update</mj-text>
+        <mj-text font-size="28px" font-weight="700"
+          >Beautiful, responsive emails — shipped fast</mj-text
+        >
+        <mj-text class="muted"
+          >We turned Figma designs into clean MJML templates with consistent
+          spacing and bulletproof responsiveness.</mj-text
+        >
+        <mj-button href="https://example.com" align="left"
+          >Explore templates</mj-button
+        ></mj-column
+      ></mj-section
+    >
+    <mj-section padding="24px"
+      ><mj-column
+        background-color="#ffffff"
+        padding="24px"
+        css-class="shadow-card"
+        ><mj-image
+          src="https://dummyimage.com/600x300/EEF5FF/0A84FF.png&text=Responsive"
+          alt="Responsive"
+        ></mj-image>
+        <mj-text font-weight="600">Responsive by default</mj-text>
+        <mj-text class="muted"
+          >Mobile-first sections for Gmail, Outlook, and Apple Mail.</mj-text
+        ></mj-column
+      >
+      <mj-column
+        background-color="#ffffff"
+        padding="24px"
+        css-class="shadow-card"
+        ><mj-image
+          src="https://dummyimage.com/600x300/F3F7FF/0A84FF.png&text=Accessible"
+          alt="Accessible"
+        ></mj-image>
+        <mj-text font-weight="600">Accessible colors & text</mj-text>
+        <mj-text class="muted"
+          >Readable typography, alt text, and good contrast.</mj-text
+        ></mj-column
+      >
+      <mj-column
+        background-color="#ffffff"
+        padding="24px"
+        css-class="shadow-card"
+        ><mj-image
+          src="https://dummyimage.com/600x300/EFF3FF/0A84FF.png&text=Modular"
+          alt="Modular"
+        ></mj-image>
+        <mj-text font-weight="600">Modular components</mj-text>
+        <mj-text class="muted"
+          >Reusable hero, cards, CTAs, and footers.</mj-text
+        ></mj-column
+      ></mj-section
+    >
+    <mj-section background-color="#0A84FF" padding="36px"
+      ><mj-column
+        ><mj-text color="#ffffff" font-size="20px" font-weight="600"
+          >Want a template converted from your Figma file?</mj-text
+        >
+        <mj-button
+          background-color="#ffffff"
+          color="#0A84FF"
+          href="https://example.com/contact"
+          >Get a free sample section</mj-button
+        ></mj-column
+      ></mj-section
+    >
+    <mj-section background-color="#ffffff" padding="36px 24px"
+      ><mj-column
+        ><mj-text font-weight="700">What you get</mj-text>
+        <mj-text class="muted"
+          >Clean MJML, exported HTML, image optimization, and tested
+          layouts.</mj-text
+        >
+        <mj-text class="muted"
+          >Delivery: .mjml source + compiled HTML + assets + readme.</mj-text
+        ></mj-column
+      >
+      <mj-column
+        ><mj-text font-weight="700">Turnaround</mj-text>
+        <mj-text class="muted"
+          >Simple emails: 24–48h. Complex: 2–3 days.</mj-text
+        >
+        <mj-text class="muted"
+          >Bulk orders supported with consistent components.</mj-text
+        ></mj-column
+      ></mj-section
+    >
+    <mj-section background-color="#ffffff" padding="24px"
+      ><mj-column
+        ><mj-text class="divider"></mj-text>
+        <mj-text font-size="12px" class="muted"
+          >You’re receiving this because you subscribed. Unsubscribe
+          anytime.</mj-text
+        >
+        <mj-text font-size="12px" class="muted"
+          >© 2025 Kalid — Addis Ababa, Ethiopia</mj-text
+        ></mj-column
+      ></mj-section
+    ></mj-body
+  >
+</mjml>
